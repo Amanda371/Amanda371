@@ -1,6 +1,6 @@
 # Amanda Mlungwana
 
-## Software Developer | Early Career
+## Software Developer | Python & Front-End Enthusiast | Building Real-World Projects
 
 I am an early-career Software Developer focused on building a strong foundation in programming and software engineering. I am committed to developing reliable, efficient, and well-structured applications while continuously strengthening my technical skills.
 
