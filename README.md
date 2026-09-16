@@ -1,47 +1,35 @@
-# Amanda Mlungwana
+### Hi, I'm Amanda Mlungwana 👋
 
-## Software Developer | Python & Front-End Enthusiast | Building Real-World Projects
+## Aspiring Cybersecurity Analyst | Python Foundations | Documenting My Journey
 
-I am an early-career Software Developer focused on building a strong foundation in programming and software engineering. I am committed to developing reliable, efficient, and well-structured applications while continuously strengthening my technical skills.
-
-I approach software development with discipline, logical thinking, and a growth mindset. My goal is to evolve into a highly skilled developer through consistent practice and real-world project building.
+I'm currently training as a Cybersecurity Analyst (Hosi Technologies / Dynamic DNA learnership), 
+building on a foundation in Python and software development fundamentals. I use this GitHub 
+to document every project, lab, and concept I learn from networking basics to threat 
+detection  as I build toward a career in security.
 
 ---
 
-## Core Skills
+### 🛡️ Currently Learning
+- Cybersecurity fundamentals (networking, threats, security principles)
+- Practical labs and tools as part of my learnership
+- Continuing to sharpen Python for scripting and automation
 
+### 💻 Core Skills
 - Python
+- Networking & Security Fundamentals
 - Object-Oriented Programming (OOP)
 - Problem Solving & Analytical Thinking
 - Git & GitHub
-- Software Development Fundamentals
 
----
+### 📂 Projects
+(This section will grow as I complete labs and projects during my learnership — check back often!)
 
-## Projects
+### 🎓 Background
+- Diploma in Library and Information Studies, Durban University of Technology
+- Certifications: WeThinkCode_ Generative AI Course, FNB App Academy Full Stack, 
+  SheCodes Basics, Cisco NetAcad Python Essentials 1
 
-- To-Do List Application  
-- Library Register System  
-- Command-Line Calculator  
-- Beginner Automation Scripts  
+📫 amandamlungwana9@gmail.com | [LinkedIn](https://www.linkedin.com/in/amanda-mlun...)
 
----
-
-## Professional Focus
-
-- Writing clean and maintainable code  
-- Strengthening core programming concepts  
-- Improving code efficiency and structure  
-- Building practical software solutions  
-
----
-
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amanda371&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda371&layout=compact)
-
----
-
- "Consistency and discipline create mastery."
+# 🎯 Goal:
+To grow into a skilled cybersecurity professional through continuous learning and hands-on experience
